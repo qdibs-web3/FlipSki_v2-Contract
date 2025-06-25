@@ -1,0 +1,16 @@
+{
+  "contractAddress": "0x0c20CDb2ce0cAbff1e4cBA87c0D6A2EcA36c7D53",
+  "network": "baseMainnet",
+  "deployer": "0xf562BaFabdB96cA6d1FF978A9663903BaCa60b1b",
+  "timestamp": "2025-06-16T21:05:47.453Z",
+  "constructorArgs": {
+    "flipSkiTokenAddress": "0xE4b2F8B5B9497222093e2B1Afb98CE2728D3bB07",
+    "initialFeeWallet": "0x69Edc00a807042895Fe09595Ee27992B3aF8BB20",
+    "initialFeePercentage": 1000,
+    "initialMaxWager": "100000000000000000000000000",
+    "initialMinWager": "1000000000000000000000000",
+    "vrfCoordinatorAddress": "0xd5D517aBE5cF79B7e95eC98dB0f0277788aFF634",
+    "subscriptionId": "91290400632091349935568618503965031889675041093708360844738730243675487252",
+    "keyHash": "0xdc2f87677b01473c763cb0aee938ed3341512f6057324a584e5944e786144d70"
+  }
+}
