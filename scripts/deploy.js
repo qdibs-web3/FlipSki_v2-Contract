@@ -10,7 +10,7 @@ async function main() {
 
   // Base Mainnet VRF Configuration
   const VRF_COORDINATOR = "0xd5D517aBE5cF79B7e95eC98dB0f0277788aFF634"; // Base Mainnet VRF Coordinator
-  const KEY_HASH = "0x816bedba8a50b294e5cbd47842baf240c2385f2eaf719edbd4f250a137a8c899"; // Base Mainnet Key Hash
+  const KEY_HASH = "0xdc2f87677b01473c763cb0aee938ed3341512f6057324a584e5944e786144d70"; // Base Mainnet Key Hash
   const SUBSCRIPTION_ID = process.env.VRF_SUBSCRIPTION_ID || "1"; // Replace with your subscription ID
   
   // Contract configuration
